@@ -75,6 +75,6 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
         with:
-          app-name: "skinet_Section_20"
+          app-name: "skinet_Final"
           slot-name: "Production"
           package: .
