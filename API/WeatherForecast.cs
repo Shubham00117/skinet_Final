@@ -10,3 +10,4 @@ public class WeatherForecast
 
     public string? Summary { get; set; }
 }
+//nice-gnu-62172.upstash.io:6379,password=AfLcAAIjcDFkYzYzNDU3Njc4ZTI0YjE1OTgxNDVlNmViNzMzOGY0NXAxMA,ssl=true,abortConnection=False
